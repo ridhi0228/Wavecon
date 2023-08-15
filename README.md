@@ -1,5 +1,8 @@
 # Wavecon Telecom
 
+(Link to video presentation )
+[https://www.linkedin.com/feed/update/urn:li:activity:7092500339072864257/]
+
 𝗪𝗮𝘃𝗲𝗖𝗼𝗻 - a remarkable telecom service that I
 explored during the codebasics 𝗩𝗶𝗿𝘁𝘂𝗮𝗹 𝗜𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽.
 They have launched their 5G network, and we're analyzing revenue trends! 📈💹
